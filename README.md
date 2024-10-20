@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎓 Transitioned from higher education/nonprofit sector, with a focus on disability advocacy.
 - 💬 Ask me about JavaScript, React, Node.js, and accessibility in tech.
 - 🌍 Based in Brooklyn but from New Orleans -- the heart of bounce music and genuine connections.
-- 💡 One of my special interests is psychology and understanding human relationships from psychological, experiential, and anthropological perspectives.
+- 💡 One of my special interests is psychology and understanding human relationships.
 - 🎧 Lover of sad-girl indie/alternative music as well as some light post-punk tunes and anything that feels like the soundtrack from a coming-of-age film. 
 
 ### Tech & Tools
