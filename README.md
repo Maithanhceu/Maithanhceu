@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm ✨ Mai! 🧚‍♀️✨ 
+# Hi there -- I'm ✨ Mai! 🧚‍♀️✨ 
 
 🌱 I’m a software engineer in training at Techtonica with a passion for creating accessible features for people with disabilities.  
 🔭 I’m currently working on a dating platform that is exclusively for creating events centered on dating and meeting people in real life.  
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
   
 ### Fun Fact
 
--Did you know that one of my hobbies is ceramics? I'm particularly interested in hand-building and recreating objects I've lost throughout my life. One day, I aspire to showcase pieces inspired by the items I lost during Hurricane Katrina when I was nine.
+- Did you know that one of my hobbies is ceramics? I'm particularly interested in hand-building and recreating objects I've lost throughout my life. One day, I aspire to showcase pieces inspired by the items I lost during Hurricane Katrina when I was nine.
