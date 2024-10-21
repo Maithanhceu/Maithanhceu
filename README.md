@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### Projects I'm Proud Of
 
-- **[DateSpot](https://github.com/Maithanhceu/DateSpot.git)**: An application where users can create dating center events to meet IRL. 
+- **[DateSpot](https://github.com/Maithanhceu/DateSpot.git)**: An application where users can create dating centered events to meet IRL. 
 - **[Mai_BlogApp](https://github.com/Maithanhceu/techtonica_assignments-/tree/db2cf0e3f1005462d039833ac65bd55d40d778fc/mai_blog)**: An application where I save postcards from places I visited during my time at Techtonica. 
 
 
