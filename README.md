@@ -57,4 +57,4 @@ Here are some ideas to get you started:
   
 ### Fun Fact
 
-- Did you know that one of my hobbies is ceramics? I'm particularly interested in hand-building and recreating objects I've lost throughout my life. One day, I aspire to showcase pieces inspired by the items I lost during Hurricane Katrina when I was nine.
+- Did you know that one of my hobbies is ceramics? I'm particularly interested in hand-building and recreating objects I've lost throughout my life. One day, I plan to showcase pieces inspired by the items I lost during Hurricane Katrina when I was nine.
